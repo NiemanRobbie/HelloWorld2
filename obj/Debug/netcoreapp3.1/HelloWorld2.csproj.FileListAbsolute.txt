@@ -1,0 +1,11 @@
+/Users/robertnieman/sdgunit1/HelloWorld2/bin/Debug/netcoreapp3.1/HelloWorld2
+/Users/robertnieman/sdgunit1/HelloWorld2/bin/Debug/netcoreapp3.1/HelloWorld2.deps.json
+/Users/robertnieman/sdgunit1/HelloWorld2/bin/Debug/netcoreapp3.1/HelloWorld2.runtimeconfig.json
+/Users/robertnieman/sdgunit1/HelloWorld2/bin/Debug/netcoreapp3.1/HelloWorld2.runtimeconfig.dev.json
+/Users/robertnieman/sdgunit1/HelloWorld2/bin/Debug/netcoreapp3.1/HelloWorld2.dll
+/Users/robertnieman/sdgunit1/HelloWorld2/bin/Debug/netcoreapp3.1/HelloWorld2.pdb
+/Users/robertnieman/sdgunit1/HelloWorld2/obj/Debug/netcoreapp3.1/HelloWorld2.csprojAssemblyReference.cache
+/Users/robertnieman/sdgunit1/HelloWorld2/obj/Debug/netcoreapp3.1/HelloWorld2.AssemblyInfoInputs.cache
+/Users/robertnieman/sdgunit1/HelloWorld2/obj/Debug/netcoreapp3.1/HelloWorld2.AssemblyInfo.cs
+/Users/robertnieman/sdgunit1/HelloWorld2/obj/Debug/netcoreapp3.1/HelloWorld2.dll
+/Users/robertnieman/sdgunit1/HelloWorld2/obj/Debug/netcoreapp3.1/HelloWorld2.pdb
